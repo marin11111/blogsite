@@ -1,0 +1,6 @@
+#H1 Cine Movie
+#H2 Ovom aplikacijom sam zamislio napraviti videoteku putem koje se mogu pratiti nadolazeci filmovi putem kalendara.
+	Naslovna stranica nudi ogledni primjer top 5 najgledanijih filmova/serija u svijetu koji tek dolaze u moju videoteku.
+	Svaki korisnik se mora registrirati na moj site od videoteke te redovno pratiti stanje filmova koji tek izlaze.
+	U sadržaju "o nama" može se pronaæi kratki opis poèetka moje karijere glede videoteke te kratki filmiæ najboljih filmova u 2017 koji su posuðivani unutar moje videoteke.
+	
